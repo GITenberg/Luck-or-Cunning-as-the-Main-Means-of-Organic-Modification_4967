@@ -1,0 +1,30 @@
+_repo: Luck-or-Cunning-as-the-Main-Means-of-Organic-Modification_4967
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: This is Butler's fourth book on his one-sided feud with Darwin wherein
+  he again rejects Darwinism in favor of a neo-Lamarckian evolutionary view. While
+  Butler was growing increasingly self-righteous and resentful over his belief that
+  Darwin was deliberately hiding the truth about evolution, it was to be Butler's
+  last book on the subject.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural selection'
+- !lcsh 'Evolution'
+- !lcc 'QH'
+- !lcc 'PR'
+title: Luck, or Cunning, as the Main Means of Organic Modification
+url: http://www.gutenberg.org/ebooks/4967
