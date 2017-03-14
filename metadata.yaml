@@ -1,5 +1,8 @@
 _repo: Luck-or-Cunning-as-the-Main-Means-of-Organic-Modification_4967
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -14,6 +17,8 @@ description: This is Butler's fourth book on his one-sided feud with Darwin wher
   Butler was growing increasingly self-righteous and resentful over his belief that
   Darwin was deliberately hiding the truth about evolution, it was to be Butler's
   last book on the subject.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4967#Luck-or-Cunning-as-the-Main-Means-of-Organic-Modification
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
