@@ -1,5 +1,5 @@
 _repo: Luck-or-Cunning-as-the-Main-Means-of-Organic-Modification_4967
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Evolution'
 - !lcc 'QH'
 - !lcc 'PR'
+- GITenberg
 title: Luck, or Cunning, as the Main Means of Organic Modification
 url: http://www.gutenberg.org/ebooks/4967
